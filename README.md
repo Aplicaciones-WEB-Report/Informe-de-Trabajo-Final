@@ -23,7 +23,7 @@ Sánchez Ponce, Alex Humberto
         <li>Peralta Chipa Ronald Joel - U202224619</li>
         <li>Bustamante Leveau Cameron Charlotte - U20231A804</li>
         <li>Lapa de la Cruz Gabriel Omar - U202216831</li>
-        <li>otro companiero</li>
+        <li>Urrutia Peña Jasmin Adriana - U202310008</li>
         <li>otro companiero</li>
     </ul>
 </div>

@@ -23,8 +23,8 @@ Sánchez Ponce, Alex Humberto
         <li>Peralta Chipa Ronald Joel - U202224619</li>
         <li>Bustamante Leveau Cameron Charlotte - U20231A804</li>
         <li>Lapa de la Cruz Gabriel Omar - U202216831</li>
-        <li>otro companiero</li>
-        <li>otro companiero</li>
+        <li>Urrutia Peña Jasmin Adriana - U202310008</li>
+        <li>Mauro Fabricio Lopez de la Cruz</li>
     </ul>
 </div>
 
@@ -123,6 +123,54 @@ Sánchez Ponce, Alex Humberto
 
 # <font color="red">**Student Outcome**</font>
 
+El curso contribuye al cumplimiento del Student Outcome ABET: </br> 
+**ABET – EAC - Student Outcome 3** 
+**Criterio:** Capacidad de comunicarse efectivamente con un rango de audiencias. 
+En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3.
+
+</br>
+
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Criterio específico</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Acciones realizadas</span></th><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:normal">Conclusiones</span></th></tr></thead>
+<tbody>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.c1. Identifica problemas complejos de ingeniería de software. </td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"> <br> <b>TB1:</b> <br>
+Cameron Charllotte Bustamante Leveau: 
+    <br>
+Ronald Joel Peralta Chipa:
+    <br>
+Jasmin Adriana Urrutia Peña:
+
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+    
+</tr>
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.c2. Formula problemas complejos de ingeniería de software aplicando ciencias, matemáticas e ingeniería</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br> <b>TB1:</b> <br>
+Cameron Charllotte Bustamante Leveau: 
+    <br>
+Ronald Joel Peralta Chipa:
+    <br>
+Jasmin Adriana Urrutia Peña:
+
+    
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">  
+</tr>
+
+
+<tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1.c3. Resuelve problemas complejos de ingeniería de software aplicando ciencias, matemáticas e ingeniería</td>
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><br> <b>TB1:</b> <br>
+Cameron Charllotte Bustamante Leveau: 
+    <br>
+Ronald Joel Peralta Chipa:
+    <br>
+Jasmin Adriana Urrutia Peña:
+
+    
+<td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+</tr>
+
+</tbody></table>
+</br></br>
+
 # <font color="red"> **Capítulo I: Introducción** </font>
 
 ## **1.1. Startup Profile**
@@ -141,11 +189,98 @@ Sánchez Ponce, Alex Humberto
 
 ### **1.2.2. Lean UX Process**
 #### **1.2.2.1. Lean UX Problem Statements**
-#### **1.2.2.2. Lean UX Assumptions**
-#### **1.2.2.3. Lean UX Hypothesis Statements**
-#### **1.2.2.4. Lean UX Canvas**
+<p align="justify">
+Nuestra Startup fue diseñada para optimizar y modernizar los procesos de selección de personal, brindando a las empresas una plataforma centralizada, automatizada e intuitiva que permite realizar contrataciones más rápidas, precisas y efectivas.
+Hemos observado que el proceso de reclutamiento no está cumpliendo con estos objetivos en muchas empresas, ya que los equipos de Recursos Humanos enfrentan dificultades al gestionar manualmente grandes volúmenes de postulaciones, coordinar entrevistas en múltiples canales y tomar decisiones sin datos claros o centralizados.
+Esto está causando retrasos en las contrataciones, errores humanos y una experiencia poco satisfactoria tanto para los candidatos como para los reclutadores, lo cual impacta negativamente en la eficiencia operativa y en la capacidad de atraer talento de calidad.
+¿Cómo podemos mejorar la eficiencia operativa y la calidad de las contrataciones, proporcionando una plataforma web que automatice el filtrado de CVs, centralice todas las etapas del proceso y ofrezca métricas útiles para una toma de decisiones estratégicas basada en datos objetivos?
+</p>
 
-## **1.3. Segmentos objetivo**
+#### **1.2.2.2. Lean UX Assumptions**
+
+<b>- Business Outcomes:</b><br>
+<p align="justify">
+Nuestra plataforma está diseñada para automatizar las tareas críticas del área de Recursos Humanos, mejorando su productividad y reduciendo los costos operativos asociados a los métodos tradicionales. Al ofrecer una solución moderna, accesible y basada en datos, aspiramos a posicionarnos como una herramienta esencial para empresas grandes, medianas y pequeñas que buscan profesionalizar su gestión de talento.
+Suponemos que al ofrecer Jobsy como una solución innovadora, confiable y enfocada en optimizar el proceso de contratación, lograremos ventas directas a empresas medianas interesadas en planes mensuales o anuales. Esto nos permitirá generar ingresos sostenibles, alcanzar una rentabilidad y recuperar la inversión inicial dentro del primer año tras el despliegue de la aplicación.
+</p>
+
+<b>- User Outcomes:</b><br>
+<p align="justify">
+Cuando los equipos de Recursos Humanos utilicen Jobsy, experimentarán una mejora significativa en la eficiencia de sus procesos de reclutamiento. Al centralizar herramientas clave como el filtrado automático de CVs y la programación de entrevistas, podrán ahorrar tiempo, tomar decisiones más informadas y reducir la carga operativa. Esto les permitirá enfocarse en tareas más estratégicas, mejorar la experiencia del candidato y aumentar la calidad general de las contrataciones, sintiéndose más satisfechos con su trabajo y sus resultados.
+</p>
+
+<b>Features y Assumptions:</b><br>
+<p align="justify">
+<b> - Filtrado inteligente de CVs con IA:</b> Suponemos que los reclutadores confían en algoritmos para preseleccionar candidatos de forma precisa, según el cumplimiento de aptitudes registradas para el puesto. <br><br>
+<b> - Panel interactivo de gestión de postulaciones:</b> El usuario desea tener control visual y rápido del estado de cada postulación. <br><br>
+<b> - Envío automatizado de pruebas técnicas:</b> Suponemos que los usuarios prefieren automatizar esta etapa para reducir la carga operativa y garantizar una evaluación estandarizada de los postulantes. <br><br>
+<b> - Agendamiento de entrevistas desde la plataforma:</b> Suponemos que los reclutadores valoran poder coordinar entrevistas desde un solo lugar, sin depender de herramientas externas. <br><br>
+<b> - Generación de contratos digitales y gestión del onboarding:</b> Suponemos que las empresas desean digitalizar completamente el proceso de incorporación para hacerlo más ágil y ordenado. <br><br>
+<b> - Publicación automatizada de vacantes:</b> Suponemos que los usuarios valoran poder publicar vacantes de manera rápida y sugerida. <br><br>
+<b> - Sistema de seguimiento de candidatos:</b> Suponemos que los reclutadores necesitan una línea de tiempo clara del proceso de cada candidato para evitar confusiones. <br><br>
+<b> - Gamificación para evaluar habilidades blandas:</b> Suponemos que los reclutadores estarán abiertos a utilizar dinámicas interactivas para detectar rasgos como liderazgo, comunicación o trabajo en equipo de manera más natural y divertida. <br><br>
+<b> - Organizador de evaluación y entrevistas programadas:</b> Suponemos que los usuarios valorarán tener una agenda donde puedan gestionar fechas y recordatorios de todos los candidatos en un solo lugar.
+</p>
+
+#### **1.2.2.3. Lean UX Hypothesis Statements**
+<ol>
+  <li>
+    <p align="justify"><b>Hipótesis 1:</b><br>
+    Creemos que los reclutadores preferirán el filtrado inteligente por IA frente a la revisión manual de CVs.<br>
+    <i>Sabremos que esta hipótesis es cierta</i> cuando veamos que al menos el 70% de los usuarios usa el filtrado automático.
+    </p>
+  </li>
+
+  <li>
+    <p align="justify"><b>Hipótesis 2:</b><br>
+    Creemos que la publicación automatizada de vacantes facilitará una mayor difusión de las ofertas laborales y reducirá el tiempo de publicación.<br>
+    <i>Sabremos que esta hipótesis es cierta</i> cuando veamos una reducción del 50% en el tiempo promedio que toma publicar las vacantes en otros portales.
+    </p>
+  </li>
+
+  <li>
+    <p align="justify"><b>Hipótesis 3:</b><br>
+    Creemos que el sistema de seguimiento de candidatos permitirá una gestión más ordenada y eficiente del proceso de selección.<br>
+    <i>Sabremos que esta hipótesis es cierta</i> cuando los usuarios consulten y actualicen el estado de los candidatos frecuentemente dentro del sistema.
+    </p>
+  </li>
+
+  <li>
+    <p align="justify"><b>Hipótesis 4:</b><br>
+    Creemos que la gamificación para evaluar habilidades blandas mejorará el nivel de engagement de los postulantes y facilitará la evaluación de competencias sociales.<br>
+    <i>Sabremos que esta hipótesis es cierta</i> cuando más del 50% de los candidatos completen las pruebas gamificadas y los reclutadores tomen en cuenta esto en su decisión final.
+    </p>
+  </li>
+
+  <li>
+    <p align="justify"><b>Hipótesis 5:</b><br>
+    Creemos que los usuarios valorarán tener una agenda donde puedan gestionar fechas y recordatorios de todos los candidatos en un solo lugar.<br>
+    <i>Sabremos que esta hipótesis es cierta</i> cuando veamos que al menos el 75% de los usuarios utilizan activamente la agenda para programar entrevistas y establecer recordatorios durante el proceso de evaluación.
+    </p>
+  </li>
+</ol>
+
+#### **1.2.2.4. Lean UX Canvas**
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeChJjk9rz2GE1ZGx9Ik6Tb2uyG76_3iCMBSgNx_56x-wLz8njRZFbxBwEusDlFwnuKPwRoafOCOr-3Gel2mIydUgrVS_oD7YuV2xB7ZQwZMzZ-YPhR7Z-8BW5X_t1aKGwy3WIMGw?key=gvlLacgsz9NCnDkMVc0Umifa" />
+
+#### **1.3. Segmentos objetivo** 
+<b>Segmento 1: Equipos de Recursos Humanos encargados del proceso de contratación</b>
+<ul>
+  <li><p align="justify">Empresas medianas (entre 50 y 250 empleados) que no cuentan con soluciones completas de automatización.</p></li>
+  <li><p align="justify">Equipos de Recursos Humanos conformados por 1 a 5 personas, que gestionan múltiples vacantes al mes.</p></li>
+  <li><p align="justify">Profesionales con entre 25 y 45 años de edad, con experiencia en selección de personal, reclutamiento y gestión de talento.</p></li>
+  <li><p align="justify">Sectores como tecnología, servicios, comercio y educación, donde la rotación de personal suele ser más alta.</p></li>
+  <li><p align="justify">Ubicadas en contextos urbanos, con cierta familiaridad con herramientas digitales, pero que aún utilizan procesos manuales o poco integrados.</p></li>
+</ul>
+
+<b>Segmento 2: Postulantes (Candidatos para el empleo)</b>
+<ul>
+  <li><p align="justify">Jóvenes profesionales y técnicos entre 22 y 35 años, egresados de universidades o institutos técnicos.</p></li>
+  <li><p align="justify">Personas con experiencia laboral previa de entre 1 y 5 años, principalmente en áreas como tecnología, diseño, administración, ventas o atención al cliente.</p></li>
+  <li><p align="justify">Residentes de zonas urbanas con acceso a internet y familiarizados con el uso de plataformas digitales para postularse (como LinkedIn, Computrabajo, etc.).</p></li>
+  <li><p align="justify">Personas que valoran una experiencia de postulación clara, ágil y moderna, con comunicación rápida y procesos más transparentes.</p></li>
+  <li><p align="justify">Interesados en empresas que tengan procesos actualizados, con posibilidad de seguimiento de su postulación, evaluaciones claras y entrevistas organizadas.</p></li>
+</ul>
 
 # <font color="red"> **Capítulo II: Requirements Elicitation & Analysis**</font>
 

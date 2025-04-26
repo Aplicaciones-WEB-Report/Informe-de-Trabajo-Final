@@ -327,6 +327,22 @@ Link para la visualización de la Landing Page:
 ## **5.2. Landing Page, Services & Applications Implementation**
 ### **5.2.1. Sprint 1**
 #### **5.2.1.1. Sprint Planning 1**
+
+| **Sprint #**                    | Sprint 1 |
+|----------------------------------|----------|
+| **Sprint Planning Background**  |          |
+| **Date**                        | 11/04/2025 |
+| **Time**                        | 8:00 pm |
+| **Location**                    | Virtual (Discord) |
+| **Prepared by**                 | (líder) ¿? |
+| **Attendees (to planning meeting)** | Peralta Chipa Ronald Joel <br> Bustamante Leveau Cameron Charllotte <br> Urrutia Peña Jasmin Adriana <br> Mauro Fabricio Lopez de la Cruz <br> Lapa de la Cruz Gabriel Omar |
+| **Sprint n - 1 Review Summary**  | No hubo sprint anterior |
+| **Sprint n - 1 Retrospective Summary** | No hubo sprint anterior |
+| **Sprint Goal & User Stories**   |          |
+| **Sprint 1 Goal**                | Realizar el Landing Page / Informe de trabajo |
+| **Sprint 1 Velocity**            | 10 |
+| **Sum of Story Points**          | 8 |
+
 #### **5.2.1.2. Aspect Leaders and Collaborators**
 #### **5.2.1.3. Sprint Backlog 1**
 #### **5.2.1.4. Development Evidence for Sprint Review**

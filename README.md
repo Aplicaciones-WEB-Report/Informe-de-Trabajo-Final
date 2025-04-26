@@ -354,6 +354,19 @@ Link para la visualización de la Landing Page:
 | Lapa, Gabriel                      | Gabo0722         | C                       | C                           | C                          | C                            | C                               | L                            |
 
 #### **5.2.1.3. Sprint Backlog 1**
+
+| Sprint # | Sprint |          |           |             |         |         |        |
+|----------|--------|----------|-----------|-------------|---------|---------|--------|
+| **User Story** | | **Work Item / Task** | | | | | |
+| ID | Title | ID | Title | Description | Estim. Hours | Assigned | Status |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| US010 | Registrar cuenta postulante | T1 | Implementar Home | Desarrollar la página principal que dará acceso a las funcionalidades. | 2hrs | Ronald | Done |
+|      |                                  | T2 | Implementar Contacto | Construir un formulario de contacto para que los usuarios puedan registrarse. | 3hrs | Ronald | Done |
+| US022 | Registrar método de pago | T3 | Implementar planes | Diseñar la sección que presenta los diferentes planes disponibles. | 3hrs | Jazmín | Done |
+|      |                                  | T4 | Implementar servicios | Integrar un apartado donde se detalle cada servicio ofrecido. | 3hrs | Fabricio | Done |
+| US025 | Configurar notificaciones | T5 | Implementar Sobre nosotros | Elaborar un apartado que describa la misión y visión de la página. | 2hrs | Gabriel | Done |
+|      |                                  | T6 | Implementar testimonio | Incorporar un espacio para mostrar opiniones y experiencias de clientes. | 2hrs | Cameron | Done |
+
 #### **5.2.1.4. Development Evidence for Sprint Review**
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**

@@ -397,6 +397,27 @@ En este Sprint, se realizó el despliegue inicial de la landing page del proyect
 #### **5.2.2.4. Development Evidence for Sprint Review**
 #### **5.2.2.5. Execution Evidence for Sprint Review**
 #### **5.2.2.6. Services Documentation Evidence for Sprint Review**
+Este punto, refiere a una sección donde se documenta evidencias sobre los servicios desarrollados durante el Sprint 1. 
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>EndPoint</th>
+      <th>Funciones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+          https://github.com/Aplicaciones-WEB-Report/Landing-Page-
+      </td>
+      <td>Se desplegó exitosamente la landing page de Jobsy en GitHub Pages, con navegación funcional entre secciones como Inicio, Acerca de, Servicios y Contacto.</td>
+    </tr>
+
+  </tbody>
+</table>
+
+
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 

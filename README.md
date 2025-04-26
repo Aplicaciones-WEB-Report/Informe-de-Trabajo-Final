@@ -384,6 +384,49 @@ Se realizaron los avances con los commits correspondiente en el repositorio de l
 | Landing-Page | feat/contactos | aca53d1877cb522454cac9f079b7fdb9a1e4a0b2 | the contacts section completed | 25/04/2025 |
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
+Al concluir el primer sprint, se logró implementar todas las secciones planificadas en la landing page, garantizando una visualización óptima y atractiva para los usuarios. Se diseñó una interfaz llamativa, respetando las heurísticas de usabilidad y las mejores prácticas de desarrollo UI.
+
+Se incorporaron botones dinámicos, efectos de transición entre páginas y una barra de navegación intuitiva, todo con el propósito de ofrecer una experiencia fluida y envolvente. La landing page cumple una función clave: captar y retener a los visitantes, transformándolos en potenciales clientes interesados en nuestros servicios.
+
+**A continuación, se presentan capturas de pantalla que ilustran los avances y detalles de la interfaz.**
+
+Barra de navegacion con secciones como "Sobre Nosotros" "Servicios" "Testimonios" "Contactos" "Planes". Tambien se obersva el "Logo Home" y un boton de registro. Toda la barra navegación tiene una anmicacion de sub rayado para saber en que seccion estamos.
+
+<img src="img/barraNav.png" alt="wireflow10" width= 700/>
+
+En el home podemos observar el logo de la plataforma y un botón para el registro de usuarios nuevos. Exíste una animacion para tener una mejor experiencia al entrar al la pagina principal (home)
+
+<img src="img/home.png" alt="wireflow10" width= 700/>
+
+También se presenta la sección "Sombre nostros", un elemento clave para fortalecer nuestra credibilidad como empresa. Esta sección proporciona información detallada sobre nuestra misión y visión, permitiendo a los usuarios conocer quiénes somos y qué nos distingue en el mercado. Con ello, buscamos generar confianza y afianzar nuestra relación con potenciales clientes
+
+<img src="img/sobreNosotros.png" alt="wireflow10" width= 700/>
+
+En esta sección se destacan los servicios que ofrecemos como empresa, asegurando que nuestros visitantes tengan siempre una visión clara de nuestro enfoque y especialización. Presentamos de manera estructurada nuestras soluciones, permitiendo a los usuarios comprender cómo podemos atender sus necesidades y aportar valor. Esto refuerza nuestra identidad y facilita la conexión con el público objetivo.
+
+<img src="img/servicios.png" alt="wireflow10" width= 700/>
+
+En la sección de testimonios, los usuarios que han probado nuestro sistema comparten sus experiencias y opiniones sobre su funcionamiento. A través de sus comentarios, resaltan los beneficios y ventajas que han encontrado, reforzando la confianza en nuestra solución y demostrando su valor. Estos testimonios sirven como una referencia clave para futuros clientes, brindándoles una visión real y auténtica del impacto positivo de nuestro sistema. 
+
+<img src="img/testimonios.png" alt="wireflow10" width= 700/>
+
+La sección "Contáctanos" es fundamental dentro de nuestra landing page, ya que actúa como el puente directo entre nuestros usuarios y nosotros. A través de esta sección, los visitantes pueden solicitar información adicional o acceder a una atención más personalizada según sus necesidades. Su diseño claro e intuitivo facilita la comunicación, fortaleciendo la relación con potenciales clientes y permitiendo que la interacción sea rápida y efectiva.
+
+<img src="img/contactos.png" alt="wireflow10" width= 700/>
+
+En esta sección se presentan los dos planes disponibles: el Plan Gratis y el Plan Pro. Cada uno está diseñado para adaptarse a diferentes necesidades y niveles de servicio.
+
+<img src="img/plan.png" alt="wireflow10" width= 700/>
+
+
+
+
+
+
+
+
+
+
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 Este punto, refiere a una sección donde se documenta evidencias sobre los servicios desarrollados durante el Sprint 1. 
 

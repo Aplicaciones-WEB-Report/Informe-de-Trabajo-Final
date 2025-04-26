@@ -368,6 +368,21 @@ Link para la visualización de la Landing Page:
 |      |                                  | T6 | Implementar testimonio | Incorporar un espacio para mostrar opiniones y experiencias de clientes. | 2hrs | Cameron | Done |
 
 #### **5.2.1.4. Development Evidence for Sprint Review**
+Se realizaron los avances con los commits correspondiente en el repositorio de la siguiente forma.
+
+- Repositorio Landing Page:
+
+| Repository | Branch | Commit Id | Commit Message | Committed on (Date) |
+|:----------:|:------:|:---------:|:--------------:|:------------------:|
+| Landing-Page | feat/home | 8ab70ee9b0430fa5eb1a21d8d4bbc7fab5a99691 | Update Page/Home | 25/04/2025 |
+| Landing-Page | feat/servicios | be91f5210ca4b98d7a5ff1621e2d997b1f70cfdb | fix:update ContentService | 26/04/2025 |
+| Landing-Page | feat/sobrenosotros | 9c53463046f305aeac086e92fd213e56a7a85ae6 | feat: add Sobre Nosotros in Landing Page | 26/04/2025 |
+| Landing-Page | feat/planes | 57499e38aa7636347e10a5c363e686511870da07 | feat: add membresia | 26/04/2025 |
+| Landing-Page | feat/planes | 4124f766cc3a6ecf990bb1d163a89c5e01356718 | feat(landing): agregar sección Planes/Enterprise | 26/04/2025 |
+| Landing-Page | feat/planes | e1b84cfb86447812eb9a81d3b568d024d1dfa7ec | feat: Create Plan Standard | 26/04/2025 |
+| Landing-Page | feat/testimonios | 3dfcbffb7b7d377b6de846296e24eec2102dc6d8 | feat: update Testimonios in Landing Page | 26/04/2025 |
+| Landing-Page | feat/contactos | aca53d1877cb522454cac9f079b7fdb9a1e4a0b2 | the contacts section completed | 25/04/2025 |
+
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.1.7. Software Deployment Evidence for Sprint Review**

@@ -385,18 +385,6 @@ Se realizaron los avances con los commits correspondiente en el repositorio de l
 
 #### **5.2.1.5. Execution Evidence for Sprint Review**
 #### **5.2.1.6. Services Documentation Evidence for Sprint Review**
-#### **5.2.1.7. Software Deployment Evidence for Sprint Review**
-En este Sprint, se realizó el despliegue inicial de la landing page del proyecto Jobsy, marcando el comienzo del proceso de publicación gradual de los componentes del sistema. Esta acción tuvo como propósito principal validar visualmente los avances en diseño e interacción, tanto con el cliente como con el equipo docente.
-- URL de la landing page desplegada:
-
-#### **5.2.1.8. Team Collaboration Insights during Sprint**
-### **5.2.2. Sprint 2**
-#### **5.2.2.1. Sprint Planning 2**
-#### **5.2.2.2. Aspect Leaders and Collaborators**
-#### **5.2.2.3. Sprint Backlog 2**
-#### **5.2.2.4. Development Evidence for Sprint Review**
-#### **5.2.2.5. Execution Evidence for Sprint Review**
-#### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 Este punto, refiere a una sección donde se documenta evidencias sobre los servicios desarrollados durante el Sprint 1. 
 
 <table border="1">
@@ -418,6 +406,18 @@ Este punto, refiere a una sección donde se documenta evidencias sobre los servi
 </table>
 
 
+#### **5.2.1.7. Software Deployment Evidence for Sprint Review**
+En este Sprint, se realizó el despliegue inicial de la landing page del proyecto Jobsy, marcando el comienzo del proceso de publicación gradual de los componentes del sistema. Esta acción tuvo como propósito principal validar visualmente los avances en diseño e interacción, tanto con el cliente como con el equipo docente.
+- URL de la landing page desplegada:
+
+#### **5.2.1.8. Team Collaboration Insights during Sprint**
+### **5.2.2. Sprint 2**
+#### **5.2.2.1. Sprint Planning 2**
+#### **5.2.2.2. Aspect Leaders and Collaborators**
+#### **5.2.2.3. Sprint Backlog 2**
+#### **5.2.2.4. Development Evidence for Sprint Review**
+#### **5.2.2.5. Execution Evidence for Sprint Review**
+#### **5.2.2.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.2.7. Software Deployment Evidence for Sprint Review**
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 

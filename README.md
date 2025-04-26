@@ -344,6 +344,15 @@ Link para la visualización de la Landing Page:
 | **Sum of Story Points**          | 8 |
 
 #### **5.2.1.2. Aspect Leaders and Collaborators**
+
+| Team Member (Last Name, First Name) | GitHub Username | Implementar Home (L/C) | Implementar Contacto (L/C) | Implementar Planes (L/C) | Implementar Servicios (L/C) | Implementar Sobre Nosotros (L/C) | Implementar Testimonio (L/C) |
+|:-----------------------------------|:----------------|:-----------------------|:---------------------------|:--------------------------|:----------------------------|:-------------------------------|:----------------------------|
+| Peralta, Ronald                    | Ronni-FSTK       | L                       | L                           | C                          | C                            | C                               | C                            |
+| Bustamante, Cameron                | CameronBustamanteLeveau2 | C              | C                           | L                          | C                            | C                               | C                            |
+| Urrutia, Jazmin                    | SrtaYeis         | C                       | C                           | C                          | L                            | C                               | C                            |
+| Lopez, Mauro                       | FabricioLop      | C                       | C                           | C                          | C                            | L                               | C                            |
+| Lapa, Gabriel                      | Gabo0722         | C                       | C                           | C                          | C                            | C                               | L                            |
+
 #### **5.2.1.3. Sprint Backlog 1**
 #### **5.2.1.4. Development Evidence for Sprint Review**
 #### **5.2.1.5. Execution Evidence for Sprint Review**

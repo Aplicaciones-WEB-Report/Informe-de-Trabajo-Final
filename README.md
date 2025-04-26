@@ -236,10 +236,93 @@ Sánchez Ponce, Alex Humberto
 ### **4.8.1. Database Diagram**
 # <font color="red">**Capítulo V: Product Implementation, Validation & Deployment**</font>
 ## **5.1. Software Configuration Management**
+
+A continuación, se presentan las decisiones y convenciones que permitirán mantener la consistencia durante el ciclo de vida.
+
 ### **5.1.1. Software Development Environment Configuration**
+
+En esta sección se incluyen los links de las aplicaciones y productos de software utilizados durante el ciclo del proyecto Jobsy, en los programas que se usaron para colaborar en el desarrollo del producto digital.
+Para ello se clasifican en las siguientes secciones:
+
+
 ### **5.1.2. Source Code Management**
+1. **Project Management**  
+Es la disciplina encargada de la gestión de los proyectos, la cual tiene como objetivo principal mejorar los procesos y su entorno para alcanzar los resultados esperados.  
+- En el ciclo digital del proyecto se implementará un producto software con un modelo SaaS que se ejecutará a través de un navegador, sin embargo, no se creará una versión de aplicación móvil.
+
+---
+
+2. **Requirements Management**  
+Es el proceso de garantizar que una organización documente, verifique y satisfaga las necesidades y expectativas de sus clientes con las partes interesadas internas o externas.  
+- **Pivotal Tracker**: Se usó esta herramienta porque organiza bien las user stories y ayuda a mantener el avance del proyecto claro y ordenado.
+
+Link: [https://www.pivotaltracker.com/](https://www.pivotaltracker.com/)
+
+---
+
+3. **Product UX/UI Design**  
+Estas herramientas permiten desarrollar el modelo de nuestro producto de manera digital y de forma parte de la vida del consumidor. En este caso se realizó un modelo de sitio web.  
+- **Uxpressia**: Usamos esta herramienta para elaborar los User Persona, Empathy Maps, Journey Maps e Impact Maps.  
+Link: [https://uxpressia.com/](https://uxpressia.com/)
+
+- **Miro**: Se usó esta herramienta para los As-Is y To-Be Scenario Maps.  
+Link: [https://miro.com/](https://miro.com/)
+
+- **Figma**: Se usó esta herramienta para la elaboración de Wireframes, Mock-ups y Prototypes de nuestra Landing Page y nuestra Web Application.  
+Link: [https://www.figma.com/](https://www.figma.com/)
+
+- **Lucidchart**: Se usó esta herramienta para la elaboración de Wireflows y User Flows.  
+Link: [https://www.lucidchart.com/](https://www.lucidchart.com/)
+
+4. **Software Development**  
+- **GitHub**: Es la plataforma utilizada para el control de versiones, colaboración entre los integrantes del equipo y almacenamiento del código fuente del proyecto. A través de GitHub se aplicó GitFlow para mantener un flujo de trabajo ordenado y estructurado.  
+Link: [https://github.com/](https://github.com/)
+
+- **HTML**: Se utilizó para estructurar el contenido de la Landing Page y de las vistas principales de la aplicación web, permitiendo una organización semántica del contenido.  
+Link: [https://developer.mozilla.org/es/docs/Web/HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+
+- **CSS**: Fue empleado para definir el diseño visual del sitio, respetando la línea estética basada en Material Design. Se aplicaron estilos personalizados para lograr una interfaz moderna y agradable al usuario.  
+Link: [https://developer.mozilla.org/es/docs/Web/CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+
+- **JavaScript**: El lenguaje de programación utilizado para implementar la lógica del lado del cliente, como validaciones, interacciones dinámicas y consumo de servicios externos.  
+Link: [https://developer.mozilla.org/es/docs/Web/JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript)
+
+---
+
+5. **Software Testing**  
+- **Lenguaje Gherkins**: Se utilizó Gherkins para definir los criterios de aceptación y los escenarios de prueba en un lenguaje natural, facilitando la comprensión tanto para desarrolladores como para usuarios no técnicos.  
+Link para más información: [https://profile.es/blog/que-es-gherkin/](https://profile.es/blog/que-es-gherkin/)
+
+---
+
+6. **Software Documentation**  
+- **LucidChart**: Se usó esta herramienta para la elaboración de diagramas UML y Diagramas de Base de Datos.  
+Link: [https://www.lucidchart.com/](https://www.lucidchart.com/)
+
+- **Structurizr**: Se usó Structurizr bajo el modelo C4 para documentar la arquitectura del software, dividiendo la estructura en diferentes niveles de detalle (Context, Container, Component y Code).  
+Link: [https://structurizr.com/](https://structurizr.com/)
+
+
 ### **5.1.3. Source Code Style Guide & Conventions**
+Se adoptaron guías de estilo estándar en inglés para cada lenguaje empleado:
+
+- **HTML/CSS**: Google HTML/CSS Style Guide
+- **JavaScript**: Google JavaScript Style Guide, MDN Guidelines
+
+Esto asegura legibilidad, coherencia y facilidad de mantenimiento en todo el código del proyecto.
+
 ### **5.1.4. Software Deployment Configuration**
+La gestión del código fuente del proyecto Jobsy se realizó utilizando GitHub. Para la publicación y despliegue de la Landing Page, se empleó **GitHub Pages**, que permite una visualización directa desde el repositorio principal.
+
+Para el desarrollo y despliegue de la Landing Page de Jobsy se han utilizado las siguientes herramientas:
+
+- **HTML**: Lenguaje de marcado que permitió estructurar el contenido visual y semántico de la Landing Page. Se utilizó para crear elementos como encabezados, párrafos, botones, formularios, entre otros.
+
+- **CSS**: Lenguaje de estilos utilizado para dar formato, color, distribución y diseño gráfico a los elementos definidos en HTML. Gracias a CSS, se logró que la Landing Page sea más visualmente atractiva e interactiva.
+
+- **JavaScript**: Utilizado para añadir interactividad y dinamismo a los componentes de la Landing Page, como validaciones en formularios, navegación fluida y respuestas a eventos del usuario.
+
+Link para la visualización de la Landing Page: 
 
 ## **5.2. Landing Page, Services & Applications Implementation**
 ### **5.2.1. Sprint 1**

@@ -453,7 +453,11 @@ Este punto, refiere a una sección donde se documenta evidencias sobre los servi
 En este Sprint, se realizó el despliegue inicial de la landing page del proyecto Jobsy, marcando el comienzo del proceso de publicación gradual de los componentes del sistema. Esta acción tuvo como propósito principal validar visualmente los avances en diseño e interacción, tanto con el cliente como con el equipo docente.
 - URL de la landing page desplegada:
 
-#### **5.2.1.8. Team Collaboration Insights during Sprint**
+#### **5.2.1.8. Team Collaboration Insights during Sprint.**
+Para esta entrega, nuestro objetivo fue implementar y desplegar la Landing Page utilizando herramientas como GitHub, Visual Studio Code, HTML, Tailwind-CSS y React-JavaScript. En las siguientes secciones, presentaremos los diagramas de flujo de los commits realizados por cada miembro del equipo DigitAholics, detallando el proceso de desarrollo y colaboración.
+
+<img src="img/graficoF.png" alt="wireflow10" width= 700/>
+
 ### **5.2.2. Sprint 2**
 #### **5.2.2.1. Sprint Planning 2**
 #### **5.2.2.2. Aspect Leaders and Collaborators**

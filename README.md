@@ -334,7 +334,7 @@ Link para la visualización de la Landing Page:
 | **Date**                        | 11/04/2025 |
 | **Time**                        | 8:00 pm |
 | **Location**                    | Virtual (Discord) |
-| **Prepared by**                 | (líder) ¿? |
+| **Prepared by**                 | Peralta Chipa Ronald Joel |
 | **Attendees (to planning meeting)** | Peralta Chipa Ronald Joel <br> Bustamante Leveau Cameron Charllotte <br> Urrutia Peña Jasmin Adriana <br> Mauro Fabricio Lopez de la Cruz <br> Lapa de la Cruz Gabriel Omar |
 | **Sprint n - 1 Review Summary**  | No hubo sprint anterior |
 | **Sprint n - 1 Retrospective Summary** | No hubo sprint anterior |

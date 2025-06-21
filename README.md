@@ -541,6 +541,15 @@ Se realizaron los avances con los commits correspondientes en el repositorio:
 | **Sum of Story Points**          | 15 |
 
 #### **5.2.3.2. Aspect Leaders and Collaborators**
+
+| Team Member (Last Name, First Name) | GitHub Username            | Implementar Usuarios (L/C) | Implementar Mensajes (L/C) | Implementar Perfil de Reclutador (L/C) | Implementar Oferta de Trabajo (L/C) | Implementar Perfil de Candidatos (L/C) |
+|-------------------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------------------|--------------------------------------|-----------------------------------------|
+| Peralta, Ronald                     | Ronni-FSTK                  | L                           | C                           | C                                       | C                                    | C                                       |
+| Bustamante, Cameron                 | CameronBustamanteLeveau2   | C                           | L                           | C                                       | C                                    | C                                       |
+| Urrutia, Jazmin                     | SrtaYeis                    | C                           | C                           | L                                       | C                                    | C                                       |
+| Lopez, Mauro                        | FabricioLop                 | C                           | C                           | C                                       | L                                    | C                                       |
+| Lapa, Gabriel                       | Gabo0722                    | C                           | C                           | C                                       | C                                    | L                                       |
+
 #### **5.2.3.3. Sprint Backlog 3**
 #### **5.2.3.4. Development Evidence for Sprint Review**
 #### **5.2.3.5. Execution Evidence for Sprint Review**

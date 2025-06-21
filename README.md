@@ -523,6 +523,22 @@ Se realizaron los avances con los commits correspondientes en el repositorio:
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 
 ### **5.2.1. Sprint 3**
+
+| **Sprint #**                    | Sprint 3 |
+|----------------------------------|----------|
+| **Sprint Planning Background**  |          |
+| **Date**                        | 11/05/2025 |
+| **Time**                        | 10:00 pm |
+| **Location**                    | Virtual (Discord) |
+| **Prepared by**                 | Peralta Chipa Ronald Joel |
+| **Attendees (to planning meeting)** | Peralta Chipa Ronald Joel <br> Bustamante Leveau Cameron Charllotte <br> Urrutia Peña Jasmin Adriana <br> Mauro Fabricio Lopez de la Cruz <br> Lapa de la Cruz Gabriel Omar |
+| **Sprint 2 Review Summary**  | Implementación del Frontend de Jobsy |
+| **Sprint 2 Retrospective Summary** | El equipo mantuvo una coordinación continua, lo cual facilitó el cumplimiento de los objetivos establecidos durante el Sprint 2 |
+| **Sprint Goal & User Stories**   |          |
+| **Sprint 3 Goal**                | Realizar el Backend / Informe de trabajo |
+| **Sprint 3 Velocity**            | 20 |
+| **Sum of Story Points**          | 15 |
+
 #### **5.2.3.1. Sprint Planning 3**
 #### **5.2.3.2. Aspect Leaders and Collaborators**
 #### **5.2.3.3. Sprint Backlog 3**

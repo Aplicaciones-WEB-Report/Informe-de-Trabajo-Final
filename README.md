@@ -551,6 +551,15 @@ Se realizaron los avances con los commits correspondientes en el repositorio:
 | Lapa, Gabriel                       | Gabo0722                    | C                           | C                           | C                                       | C                                    | L                                       |
 
 #### **5.2.3.3. Sprint Backlog 3**
+
+| **User Story** | **Work Item / Task** | ID  | Title | Description | Estim. Hours | Assigned | Status |
+|----------------|----------------------|-----|--------|-------------|---------------|----------|--------|
+| US009 | Enviar oferta laboral | T1  | Implementar los métodos de oferta laboral | Crear y configurar los controladores y servicios necesarios para registrar y enviar una oferta a un postulante. | 4hrs | Fabricio | In Process |
+| US010 | Registrar cuenta de postulante     | T2  | Implementar los datos del perfil del postulante | Permitir el almacenamiento y validación de datos personales y profesionales del postulante. | 3hrs | Gabriel | Done |
+| US011 | Registrar cuenta de reclutador         | T3  | Implementar los datos del perfil del reclutador | Habilitar la gestión de información empresarial y de contacto para los usuarios tipo reclutador. | 3hrs | Jazmin | Done |
+| US031 | Iniciar sesión con redes sociales  | T4  | Implementar datos de los usuarios potenciales | Configurar la autenticación mediante plataformas sociales y vinculación de información básica del usuario. | 3hrs | Ronald | Done |
+| US034 | Compartir perfil en redes sociales      | T5  | Implementar servicio de mensajería | Desarrollar la funcionalidad para compartir contenido con otros usuarios utilizando medios externos. | 3hrs | Cameron | In Process |
+
 #### **5.2.3.4. Development Evidence for Sprint Review**
 #### **5.2.3.5. Execution Evidence for Sprint Review**
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**

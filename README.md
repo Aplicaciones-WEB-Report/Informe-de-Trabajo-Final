@@ -523,6 +523,7 @@ Se realizaron los avances con los commits correspondientes en el repositorio:
 #### **5.2.2.8. Team Collaboration Insights during Sprint**
 
 ### **5.2.1. Sprint 3**
+#### **5.2.3.1. Sprint Planning 3**
 
 | **Sprint #**                    | Sprint 3 |
 |----------------------------------|----------|
@@ -539,7 +540,6 @@ Se realizaron los avances con los commits correspondientes en el repositorio:
 | **Sprint 3 Velocity**            | 20 |
 | **Sum of Story Points**          | 15 |
 
-#### **5.2.3.1. Sprint Planning 3**
 #### **5.2.3.2. Aspect Leaders and Collaborators**
 #### **5.2.3.3. Sprint Backlog 3**
 #### **5.2.3.4. Development Evidence for Sprint Review**

@@ -608,4 +608,16 @@ Las preguntas buscan recoger opiniones reales sobre la experiencia de navegació
   7. ¿Qué mejorarías o agregarías para sentirte más cómodo/a usando Jobsy?
 
 ### **5.3.2. Registro de Entrevistas**
+- **Segmento 1:** Equipos de Recursos Humanos encargados del proceso de contratación
+
+- **Segmento 2:** Postulantes o candidatos que aplican a las vacantes
+
+| **Entrevistado 1: Angela Fabiola Ushiñahua Becerra** |
+|------------------------------------------------|
+| <img src="img/Validation_Angela.JPG" alt="EntrevistaVal1Seg2" width=100% /> |
+| Distrito: Villa el Salvador / Edad: 24 |
+| **Entrevistador:** Gabriel Omar Lapa de la Cruz |
+| **Link:** [https://youtu.be/b0SY_Nao0OI](https://youtu.be/b0SY_Nao0OI) |
+|-Resumen: Angela busca empleo en el área de Recursos Humanos y consideró que la plataforma es clara, fácil de usar y útil para postular. Destacó como muy valiosa la función de analíticas, ya que permite saber mediante dashboard las diferentes publicaciones, algo que no ha visto en otras plataformas que ella usa. Aunque no le pareció muy atractiva la forma en que se presentan las postulaciones, opinó que la aplicación se ve bien y no ve necesario agregar más funciones.|
+
 ### **5.3.3. Evaluaciones según heurísticas**

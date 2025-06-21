@@ -628,4 +628,12 @@ Las preguntas buscan recoger opiniones reales sobre la experiencia de navegació
 | **Link:** [https://youtu.be/b0SY_Nao0OI](https://youtu.be/b0SY_Nao0OI) |
 |-Resumen: Angela busca empleo en el área de Recursos Humanos y consideró que la plataforma es clara, fácil de usar y útil para postular. Destacó como muy valiosa la función de analíticas, ya que permite saber mediante dashboard las diferentes publicaciones, algo que no ha visto en otras plataformas que ella usa. Aunque no le pareció muy atractiva la forma en que se presentan las postulaciones, opinó que la aplicación se ve bien y no ve necesario agregar más funciones.|
 
+| **Entrevistado 2: Jean Fabio Noriega Collado** |
+|------------------------------------------------|
+| <img src="img/entrevistajean.png" alt="EntrevistaVal1Seg2" width=100% /> |
+| Distrito: San Miguel / Edad: 19 |
+| **Entrevistador:** Jasmin Adriana Urrutia Peña |
+| **Link:** [https://youtu.be/UxxtkvhHK_8](https://youtu.be/UxxtkvhHK_8) |
+|-Resumen: Jean opina que la aplicación es muy buena, con una interfaz amigable e interactiva. Sugiere mejorar la sección de mensajes para una comunicación más eficiente, pero en general le parece una experiencia positiva y con gran potencial.|
+
 ### **5.3.3. Evaluaciones según heurísticas**

@@ -580,6 +580,32 @@ Se realizaron los avances con los commits correspondientes en el repositorio:
 #### **5.2.3.8. Team Collaboration Insights during Sprint**
 
 ## **5.3. Validation Interviews**
+El objetivo de estas entrevistas es validar la propuesta de valor, la utilidad percibida y la facilidad de uso de la plataforma, enfocándose en los dos segmentos principales:
+Por un lado, equipos de Recursos Humanos que gestionan procesos de contratación, y por otro, personas que se postulan a empleos a través de plataformas digitales.
+Las preguntas buscan recoger opiniones reales sobre la experiencia de navegación, comprensión de funcionalidades, utilidad de las herramientas integradas y nivel de confianza en el uso de la solución digital.
+
 ### **5.3.1. Diseño de Entrevistas**
+
+#### Segmento 1: Equipos de Recursos Humanos encargados del proceso de contratación (Empresas)
+
+  1. ¿Qué te pareció, en general, la presentación de la plataforma Jobsy?
+  2. ¿Crees que esta interfaz facilita tu trabajo en los procesos de contratación?
+  3. ¿La navegación entre secciones te resultó intuitiva?
+  4. ¿Encontraste fácilmente las funciones principales (ver publicaciones, revisar candidatos)?
+  5. ¿Te sentirías cómodo/a usando esta plataforma de manera frecuente?
+  6. ¿Alguna parte del diseño te generó dudas o confusión?
+  7. ¿Qué función te pareció más útil o destacable?
+  8. ¿Recomendarías esta plataforma a otras empresas o colegas?
+
+#### Segmento 2: Postulantes (Candidatos para el empleo)
+
+  1. ¿Qué impresión general te dio la plataforma al verla por primera vez?
+  2. ¿Te pareció claro y fácil de usar para postularte a un trabajo?
+  3. ¿Te sentiste guiado al recorrer la interfaz o te perdiste en algún punto?
+  4. ¿Encontraste atractiva la forma en que se presentan las ofertas laborales?
+  5. ¿Te resultó útil la opción de ver las publicaciones o candidatos disponibles?
+  6. ¿Qué función te llamó más la atención o te pareció diferente a otras plataformas?
+  7. ¿Qué mejorarías o agregarías para sentirte más cómodo/a usando Jobsy?
+
 ### **5.3.2. Registro de Entrevistas**
 ### **5.3.3. Evaluaciones según heurísticas**

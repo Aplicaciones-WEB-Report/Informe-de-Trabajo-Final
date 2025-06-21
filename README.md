@@ -561,6 +561,19 @@ Se realizaron los avances con los commits correspondientes en el repositorio:
 | US034 | Compartir perfil en redes sociales      | T5  | Implementar servicio de mensajería | Desarrollar la funcionalidad para compartir contenido con otros usuarios utilizando medios externos. | 3hrs | Cameron | In Process |
 
 #### **5.2.3.4. Development Evidence for Sprint Review**
+Se realizaron los avances con los commits correspondientes en el repositorio:
+
+- Repositorio Back-End:
+
+| Repository     | Branch              | Commit Id | Commit Message                                      | Committed on (Date) |
+|----------------|---------------------|-----------|-----------------------------------------------------|----------------------|
+| backend-app    | develop             | f1c9659da4a2013436992295739f92d1f052e426 | initial commit complete                               | 20/06/2025 |
+| backend-app    | feat/shared         | 9f9afa8ff4ab8a4655cbe2cd8757e89d037b9b2a | feat update Shared                                    | 21/06/2025 |
+| backend-app    | feat/postulant      | 19e60b7f5a13450765f40b1096bccc38c3e540a0 | feat add CandidateAuthentication in Postulant         | 21/06/2025 |
+| backend-app    |                     |                                          |                                                       | 21/06/2025 |
+| backend-app    |                     |                                          |                                                       | 21/06/2025 |
+| backend-app    |                     |                                          |                                                       | 21/06/2025 |
+
 #### **5.2.3.5. Execution Evidence for Sprint Review**
 #### **5.2.3.6. Services Documentation Evidence for Sprint Review**
 #### **5.2.3.7. Software Deployment Evidence for Sprint Review**
